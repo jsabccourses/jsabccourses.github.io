@@ -3,6 +3,7 @@ title: "Giới thiệu về JavaScript và Typescript"
 date: 2025-02-20
 categories: [Blog]
 tags: [Javascript, TypeScript, gioi-thieu]
+layout: post
 ---
 
 ### **1. Giới thiệu về JavaScript**  
